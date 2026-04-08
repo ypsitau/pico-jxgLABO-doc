@@ -4,6 +4,7 @@ copyright: "2025-2026, ypsitau"
 repo_url: https://github.com/ypsitau/pico-jxglib
 repo_name: ypsitau/pico-jxglib
 
+
 nav:
     - Home: index.md
     - Shell Commands:
